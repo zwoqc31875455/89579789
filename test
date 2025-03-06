@@ -1,3 +1,4 @@
+try {
 public class OracleJdbcTest
 test.init();
 ps.close();
