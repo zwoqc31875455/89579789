@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 while (rs.next())
 test.fetch();
 while (rs.next())
