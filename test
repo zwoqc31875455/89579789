@@ -1,3 +1,4 @@
+while (rs.next())
 test.fetch();
 while (rs.next())
 public static void main(String[] args)
