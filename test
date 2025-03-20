@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 Class.forName(driverClass);
 while (rs.next())
 test.fetch();
