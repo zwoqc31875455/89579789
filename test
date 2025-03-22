@@ -1,4 +1,5 @@
 OracleJdbcTest test = new OracleJdbcTest();
+OracleJdbcTest test = new OracleJdbcTest();
 String url = props.getProperty("db.url");
 Class.forName(driverClass);
 while (rs.next())
