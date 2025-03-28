@@ -1,3 +1,4 @@
+public static void main(String[] args)
 // do the thing you do
 con=DriverManager.getConnection(url, userName, password);
 try {
