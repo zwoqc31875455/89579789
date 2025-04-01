@@ -1,3 +1,4 @@
+while (rs.next())
 Class.forName(driverClass);
 public static void main(String[] args)
 // do the thing you do
